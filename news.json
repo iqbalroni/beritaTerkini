@@ -1,356 +1,146 @@
 {
-  "message": "Result of type terkini news in Antara News",
-  "total": 50,
+  "message": "Result of type politik news in Antara News",
+  "total": 20,
   "data": [
     {
-      "title": "Kodam Udayana bangun 24 jembatan Garuda dimulai dari Buleleng",
-      "link": "https://www.antaranews.com/berita/5502086/kodam-udayana-bangun-24-jembatan-garuda-dimulai-dari-buleleng",
-      "isoDate": "2026-03-31T00:11:59.000Z",
-      "image": "https://img.antaranews.com/cache/800x533/2026/03/31/1001301258.jpg",
-      "description": "Kodam IX/Udayana mulai membangun 24 titik Jembatan Garuda di wilayah Bali, NTB, dan NTT sebagai bagian dari program"
+      "title": "Berikut rangkuman lawatan Ratu Máxima di Indonesia",
+      "link": "https://www.antaranews.com/berita/5270237/berikut-rangkuman-lawatan-ratu-mxima-di-indonesia",
+      "isoDate": "2025-11-27T06:58:38.000Z",
+      "image": "https://img.antaranews.com/cache/800x533/2025/11/27/presiden-prabowo-menerima-kunjungan-ratu-maxima-2676737.jpg",
+      "description": "Ratu Máxima baru saja merampungkan rangkaian kunjungan kerjanya ke Indonesia yang berlangsung sejak Senin hingga"
     },
     {
-      "title": "SIM Keliling tersedia di lima lokasi Jakarta pada Selasa",
-      "link": "https://www.antaranews.com/berita/5502082/sim-keliling-tersedia-di-lima-lokasi-jakarta-pada-selasa",
-      "isoDate": "2026-03-31T00:08:02.000Z",
-      "image": "https://img.antaranews.com/cache/800x533/2026/03/31/SIM-Keliling-31032026.jpg",
-      "description": "Direktorat Lalu Lintas Polda Metro Jaya menyediakan layanan surat izin mengemudi (SIM) Keliling di lima lokasi di"
+      "title": "Profil istri Wiranto, Rugaiya Usman",
+      "link": "https://www.antaranews.com/berita/5247525/profil-istri-wiranto-rugaiya-usman",
+      "isoDate": "2025-11-17T11:33:12.000Z",
+      "image": "https://img.antaranews.com/cache/800x533/2025/11/17/persemayaman-istri-wiranto-2669113.jpg",
+      "description": "Keluarga besar Jenderal (Purn) TNI Wiranto tengah berduka atas wafatnya sang istri, Rugaiya Usman, yang meninggal dunia"
     },
     {
-      "title": "TNI gugur di Lebanon, diplomasi di Jepang warnai berita politik Senin",
-      "link": "https://www.antaranews.com/berita/5502078/tni-gugur-di-lebanon-diplomasi-di-jepang-warnai-berita-politik-senin",
-      "isoDate": "2026-03-31T00:04:55.000Z",
-      "image": "https://img.antaranews.com/cache/800x533/2026/03/31/CjkinzN000036_20260330_CBMFN0A001.jpg",
-      "description": "Isu serangan terhadap pasukan perdamaian Indonesia di Lebanon hingga dorongan penguatan kemitraan internasional menjadi"
+      "title": "Raja Yordania Abdullah II sambangi Indonesia, berikut profilnya",
+      "link": "https://www.antaranews.com/berita/5243173/raja-yordania-abdullah-ii-sambangi-indonesia-berikut-profilnya",
+      "isoDate": "2025-11-14T14:44:23.000Z",
+      "image": "https://img.antaranews.com/cache/800x533/2025/11/14/presiden-prabowo-terima-gelar-kehormatan-dari-raja-yordania-2667993.jpg",
+      "description": "Raja Yordania Abdullah Bin Al-Hussein (Abdullah II) dijadwalkan melakukan kunjungan kenegaraan ke Indonesia pada Jumat"
     },
     {
-      "title": "PARFI '56 harap ekosistem film Indonesia semakin matang",
-      "link": "https://www.antaranews.com/berita/5502074/parfi-56-harap-ekosistem-film-indonesia-semakin-matang",
-      "isoDate": "2026-03-31T00:04:46.000Z",
-      "image": "https://img.antaranews.com/cache/800x533/2023/08/29/78027AF2-125E-4428-BEEF-59F1107D4E05.jpeg",
-      "description": "Organisasi profesi seni peran yakni Persatuan Artis Film Indonesia (PARFI '56) berharap ekosistem film nasional"
+      "title": "Kilas balik hubungan bersejarah Prabowo dan Raja Yordania",
+      "link": "https://www.antaranews.com/berita/5243169/kilas-balik-hubungan-bersejarah-prabowo-dan-raja-yordania",
+      "isoDate": "2025-11-14T14:43:31.000Z",
+      "image": "https://img.antaranews.com/cache/800x533/2025/11/14/1000007463.jpg",
+      "description": "Raja Yordania Abdullah Bin Al-Hussein (Abdullah II) dijadwalkan melakukan kunjungan kenegaraan ke Indonesia pada Jumat"
     },
     {
-      "title": "Kemarin, musim kedua Harry Potter hingga akses medsosdibatasi usia",
-      "link": "https://www.antaranews.com/berita/5502070/kemarin-musim-kedua-harry-potter-hingga-akses-medsosdibatasi-usia",
-      "isoDate": "2026-03-30T23:56:11.000Z",
-      "image": "https://img.antaranews.com/cache/800x533/2026/03/25/Harry.jpg",
-      "description": "Kanal gaya hidup, hiburan, teknologi, dan otomotif ANTARA pada Senin (30/3) menyiarkan warta antara lain soal rencana"
+      "title": "Profil Sari Yuliati pengganti Mukhtarudin sebagai sekretaris F-Golkar di DPR",
+      "link": "https://www.antaranews.com/berita/5240457/profil-sari-yuliati-pengganti-mukhtarudin-sebagai-sekretaris-f-golkar-di-dpr",
+      "isoDate": "2025-11-13T13:05:26.000Z",
+      "image": "https://img.antaranews.com/cache/800x533/2025/10/06/wakil-ketua-komisi-III-DPR-RI-Sari-yuliati.jpg",
+      "description": "Nama Sari Yuliati tengah menjadi sorotan publik karena dirinya kini ditetapkan sebagai Sekretaris Fraksi Partai Golkar"
     },
     {
-      "title": "Aktivitas kembali normal, kualitas udara Jakarta Selasa pagi tak sehat",
-      "link": "https://www.antaranews.com/berita/5502066/aktivitas-kembali-normal-kualitas-udara-jakarta-selasa-pagi-tak-sehat",
-      "isoDate": "2026-03-30T23:55:48.000Z",
-      "image": "https://img.antaranews.com/cache/800x533/2025/06/25/KLH-catat-penyebab-polusi-udara-di-Jabodetabek-250625-sth-02.jpg",
-      "description": "Kualitas udara di Jakarta berdasarkan laman IQAir pada Selasa pagi masuk kategori tidak sehat, seiring aktivitas"
+      "title": "Sosok Marsinah, buruh tangguh yang ditetapkan sebagai pahlawan",
+      "link": "https://www.antaranews.com/berita/5234417/sosok-marsinah-buruh-tangguh-yang-ditetapkan-sebagai-pahlawan",
+      "isoDate": "2025-11-11T07:44:54.000Z",
+      "image": "https://img.antaranews.com/cache/800x533/2025/11/11/pemberian-gelar-pahlawan-nasional-2664349.jpg",
+      "description": "Presiden Prabowo Subianto pada peringatan Hari Pahlawan, Senin (10/11), di Istana Negara Jakarta, resmi menganugerahkan"
     },
     {
-      "title": "CORE Indonesia: Penertiban tambang ilegal jaga pasokan mineral kritis",
-      "link": "https://www.antaranews.com/berita/5502062/core-indonesia-penertiban-tambang-ilegal-jaga-pasokan-mineral-kritis",
-      "isoDate": "2026-03-30T23:40:46.000Z",
-      "image": "https://img.antaranews.com/cache/800x533/2026/03/04/WhatsApp-Image-2026-03-04-at-08.25.25-1.jpeg",
-      "description": "Direktur Eksekutif CORE Indonesia Muhammad Faisal menilai penertiban tambang ilegal menjadi kunci untuk menjaga pasokan"
+      "title": "Riwayat Mochtar Kusumaatmadja yang dianugerahi Pahlawan Nasional",
+      "link": "https://www.antaranews.com/berita/5233365/riwayat-mochtar-kusumaatmadja-yang-dianugerahi-pahlawan-nasional",
+      "isoDate": "2025-11-10T16:59:59.000Z",
+      "image": "https://img.antaranews.com/cache/800x533/2025/11/10/pemberian-gelar-pahlawan-nasional-2664457.jpg",
+      "description": "Presiden RI Prabowo Subianto baru saja menganugerahi gelar Pahlawan Nasional kepada sepuluh tokoh pada peringatan Hari"
     },
     {
-      "title": "DKI kemarin, sampah di Pasar Induk Kramat Jati hingga WFH bagi ASN",
-      "link": "https://www.antaranews.com/berita/5502058/dki-kemarin-sampah-di-pasar-induk-kramat-jati-hingga-wfh-bagi-asn",
-      "isoDate": "2026-03-30T23:28:27.000Z",
-      "image": "https://img.antaranews.com/cache/800x533/2026/03/30/InShot_20260330_090928876.jpg",
-      "description": "Sederet peristiwa penting dan menarik mewarnai Jakarta pada Senin (30/3), mulai dari pedagang di Pasar Induk Kramat"
+      "title": "Profil 10 pahlawan nasional baru yang ditetapkan Prabowo tahun 2025",
+      "link": "https://www.antaranews.com/berita/5233357/profil-10-pahlawan-nasional-baru-yang-ditetapkan-prabowo-tahun-2025",
+      "isoDate": "2025-11-10T16:58:09.000Z",
+      "image": "https://img.antaranews.com/cache/800x533/2025/11/10/pemberian-gelar-pahlawan-nasional-2664457.jpg",
+      "description": "Setiap tanggal 10 November, bangsa Indonesia memperingati Hari Pahlawan sebagai bentuk penghormatan atas perjuangan"
     },
     {
-      "title": "Kriminal kemarin, pembunuhan di Bekasi hingga kasus ijazah palsu",
-      "link": "https://www.antaranews.com/berita/5502054/kriminal-kemarin-pembunuhan-di-bekasi-hingga-kasus-ijazah-palsu",
-      "isoDate": "2026-03-30T23:22:24.000Z",
-      "image": "https://img.antaranews.com/cache/800x533/2026/03/29/IMG-20260329-011.jpg",
-      "description": "Sejumlah peristiwa kriminal terjadi di wilayah DKI Jakarta dan sekitarnya pada Senin (30/3), mulai dari penangkapan"
+      "title": "Sosok Zainal Abidin Syah yang perjuangkan Irian Barat bagian NKRI",
+      "link": "https://www.antaranews.com/berita/5233321/sosok-zainal-abidin-syah-yang-perjuangkan-irian-barat-bagian-nkri",
+      "isoDate": "2025-11-10T16:51:16.000Z",
+      "image": "https://img.antaranews.com/cache/800x533/2025/11/10/pemberian-gelar-pahlawan-nasional-2664453.jpg",
+      "description": "Presiden RI Prabowo Subianto baru saja menganugerahi gelar Pahlawan Nasional kepada sepuluh tokoh pada peringatan Hari"
     },
     {
-      "title": "Jay Idzes sangat bahagia kembali berkumpul bersama pemain timnas",
-      "link": "https://www.antaranews.com/berita/5502050/jay-idzes-sangat-bahagia-kembali-berkumpul-bersama-pemain-timnas",
-      "isoDate": "2026-03-30T23:21:57.000Z",
-      "image": "https://img.antaranews.com/cache/800x533/2026/03/31/IMG-20260331-WA0014-1.jpg",
-      "description": "Kapten timnas Indonesia Jay Idzes mengaku sangat bahagia akhirnya bisa berkumpul kembali dengan para pemain tim Garuda"
+      "title": "Tuan Rondahaim Saragih, Napoleon dari Batak yang dapat gelar pahlawan",
+      "link": "https://www.antaranews.com/berita/5233285/tuan-rondahaim-saragih-napoleon-dari-batak-yang-dapat-gelar-pahlawan",
+      "isoDate": "2025-11-10T16:41:37.000Z",
+      "image": "https://img.antaranews.com/cache/800x533/2025/11/10/pemberian-gelar-pahlawan-nasional-2664433.jpg",
+      "description": "Presiden RI Prabowo Subianto baru saja menganugerahi gelar Pahlawan Nasional kepada sepuluh tokoh pada peringatan Hari"
     },
     {
-      "title": "Kemarin, Insentif Mitra MBG hingga klinik kesehatan haji",
-      "link": "https://www.antaranews.com/berita/5502046/kemarin-insentif-mitra-mbg-hingga-klinik-kesehatan-haji",
-      "isoDate": "2026-03-30T23:19:28.000Z",
-      "image": "https://img.antaranews.com/cache/800x533/2026/03/31/BGN.jpg",
-      "description": "Sejumlah warta humaniora kemarin, Senin (30/3) masih menarik dibaca hari ini, mulai dari Badan Gizi Nasional (BGN) yang"
+      "title": "Mengenal lembaga MKD DPR RI beserta tugas dan wewenangnya",
+      "link": "https://www.antaranews.com/berita/5224313/mengenal-lembaga-mkd-dpr-ri-beserta-tugas-dan-wewenangnya",
+      "isoDate": "2025-11-06T10:03:15.000Z",
+      "image": "https://img.antaranews.com/cache/800x533/2025/11/05/Sidang-putusan-kasus-dugaan-pelanggaran-kode-etik-anggota-DPR-051125-RIV-3.jpg",
+      "description": "Dalam sistem parlemen Indonesia, terdapat lembaga internal yang berperan menjaga kehormatan dan pengawas etika para"
     },
     {
-      "title": "Sedia payung, mayoritas wilayah RI diguyur hujan ringan pada Selasa",
-      "link": "https://www.antaranews.com/berita/5502042/sedia-payung-mayoritas-wilayah-ri-diguyur-hujan-ringan-pada-selasa",
-      "isoDate": "2026-03-30T23:16:49.000Z",
-      "image": "https://img.antaranews.com/cache/800x533/2026/03/25/Cuaca-Buruk-di-Pelabuhan-Gilimanuk-170326-bcs-8.jpg.jpg",
-      "description": "Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) memprakirakan sebagian besar wilayah ibu kota provinsi di"
+      "title": "Segini harta kekayaan Wakil Gubernur Riau S. F. Hariyanto",
+      "link": "https://www.antaranews.com/berita/5222369/segini-harta-kekayaan-wakil-gubernur-riau-s-f-hariyanto",
+      "isoDate": "2025-11-05T12:35:38.000Z",
+      "image": "https://img.antaranews.com/cache/800x533/2025/11/03/IMG_20251103_205847.jpg",
+      "description": "Nama Wakil Gubernur Riau Sofyan Franyata (S. F.) Hariyanto mencuat setelah Gubernur Riau Abdul Wahid terjaring operasi"
     },
     {
-      "title": "Pesepak bola tercepat di Liga Inggris",
-      "link": "https://www.antaranews.com/infografik/5501882/pesepak-bola-tercepat-di-liga-inggris",
-      "isoDate": "2026-03-30T23:00:00.000Z",
-      "image": "https://img.antaranews.com/cache/800x533/2026/03/30/20260330-Pesepak-bola-tercepat-di-Liga-Inggris.jpg",
-      "description": "Kecepatan berlari merupakan senjata utama pesepak bola dan kunci dalam duel, transisi serta penciptaan peluang. Liga"
+      "title": "Profil Dini Yuliani, sosok pendamping setia Bupati Purwakarta Om Zein",
+      "link": "https://www.antaranews.com/berita/5207901/profil-dini-yuliani-sosok-pendamping-setia-bupati-purwakarta-om-zein",
+      "isoDate": "2025-10-29T16:02:41.000Z",
+      "image": "https://img.antaranews.com/cache/800x533/2025/10/29/get.v1.jpg",
+      "description": "Dini Yuliani, istri Bupati Purwakarta Saepul Bahri atau yang akrab disapa Om Zein, dikabarkan wafat pada Selasa (28/10)"
     },
     {
-      "title": "Dony Tri dan Beckham akan jadi pemain penting Indonesia di Piala ASEAN",
-      "link": "https://www.antaranews.com/berita/5502038/dony-tri-dan-beckham-akan-jadi-pemain-penting-indonesia-di-piala-asean",
-      "isoDate": "2026-03-30T22:56:06.000Z",
-      "image": "https://img.antaranews.com/cache/800x533/2026/03/31/john.jpg",
-      "description": "Pelatih timnas Indonesia John Herdman mengatakan Dony Tri Pamungkas dan Beckham Putra bisa menjadi pemain penting"
+      "title": "Donald Trump sebut Prabowo \"sosok luar biasa\" di KTT Perdamaian Gaza",
+      "link": "https://www.antaranews.com/berita/5174817/donald-trump-sebut-prabowo-sosok-luar-biasa-di-ktt-perdamaian-gaza",
+      "isoDate": "2025-10-15T01:54:04.000Z",
+      "image": "https://img.antaranews.com/cache/800x533/2025/10/14/Peace.jpg",
+      "description": "Presiden Amerika Serikat Donald Trump menyampaikan pujian kepada Presiden Prabowo Subianto atas peran dan"
     },
     {
-      "title": "Herdman akan temukan \"dream team\" Indonesia seiring berjalannya waktu",
-      "link": "https://www.antaranews.com/berita/5502034/herdman-akan-temukan-dream-team-indonesia-seiring-berjalannya-waktu",
-      "isoDate": "2026-03-30T22:49:14.000Z",
-      "image": "https://img.antaranews.com/cache/800x533/2026/03/31/IMG-20260331-WA0011-1.jpg",
-      "description": "Pelatih timnas Indonesia John Herdman mengakui \"dream team\" tim Garuda akan ia temukan seiring berjalannya"
+      "title": "Ketahui daftar gaji, tunjangan, dan masa kerja PPPK Paruh Waktu 2025",
+      "link": "https://www.antaranews.com/berita/5174793/ketahui-daftar-gaji-tunjangan-dan-masa-kerja-pppk-paruh-waktu-2025",
+      "isoDate": "2025-10-15T01:47:59.000Z",
+      "image": "https://img.antaranews.com/cache/800x533/2025/10/10/1000133429.jpg",
+      "description": "Tak hanya menjadi Pegawai Negeri Sipil (PNS), banyak masyarakat yang turut mengincar posisi sebagai pegawai pemerintah"
     },
     {
-      "title": "Hoaks! Donald Trump letakkan karangan bunga di peti jenazah Netanyahu",
-      "link": "https://www.antaranews.com/berita/5502030/hoaks-donald-trump-letakkan-karangan-bunga-di-peti-jenazah-netanyahu",
-      "isoDate": "2026-03-30T22:36:25.000Z",
-      "image": "https://img.antaranews.com/cache/800x533/2025/12/30/Trump1.jpg",
-      "description": "Jakarta (ANTARA/JACX) – Sebuah unggahan di media sosial Facebook menarasikan bahwa mantan Presiden"
+      "title": "Ini Profil Astrid Widayani, Wakil Wali Kota Solo-Ketua DPD PSI Solo",
+      "link": "https://www.antaranews.com/berita/5174689/ini-profil-astrid-widayani-wakil-wali-kota-solo-ketua-dpd-psi-solo",
+      "isoDate": "2025-10-15T01:07:48.000Z",
+      "image": "https://img.antaranews.com/cache/800x533/2025/09/24/1000120398.jpg",
+      "description": "Sosok Wakil Wali Kota Solo Astrid Widayani tengah menjadi sorotan publik lantaran posisi baru yang diembannya sebagai"
     },
     {
-      "title": "Hoaks! Raja Salman berikan BLT Rp13 T pada masyarakat Indonesia di bulan Ramadhan",
-      "link": "https://www.antaranews.com/berita/5502026/hoaks-raja-salman-berikan-blt-rp13-t-pada-masyarakat-indonesia-di-bulan-ramadhan",
-      "isoDate": "2026-03-30T22:34:05.000Z",
-      "image": "https://img.antaranews.com/cache/800x533/2025/12/31/penyaluran-blt-kesra-tahap-iv-di-semarang-2698513.jpg",
-      "description": "Jakarta (ANTARA/JACX) – Sebuah unggahan di media sosial Facebook menarasikan bahwa Raja Salman"
+      "title": "Profil Dirgayuza, Asisten presiden bidang Komunikasi Analis Kebijakan",
+      "link": "https://www.antaranews.com/berita/5163441/profil-dirgayuzaasisten-presiden-bidang-komunikasi-analis-kebijakan",
+      "isoDate": "2025-10-09T06:44:41.000Z",
+      "image": "https://img.antaranews.com/cache/800x533/2025/01/31/IMG-20250131-WA0020_copy_1280x852.jpg",
+      "description": "Untuk memperkuat struktur komunikasi strategis di lingkungan Istana Kepresidenan, Presiden Prabowo Subianto secara"
     },
     {
-      "title": "Hoaks! Indonesia resmi hentikan impor BBM",
-      "link": "https://www.antaranews.com/berita/5502022/hoaks-indonesia-resmi-hentikan-impor-bbm",
-      "isoDate": "2026-03-30T22:31:09.000Z",
-      "image": "https://img.antaranews.com/cache/800x533/2026/03/28/1000310339.jpg",
-      "description": "Jakarta (ANTARA/JACX) – Sebuah unggahan di media sosial Facebook menarasikan bahwa pemerintah"
+      "title": "Profil Agung Gumilar, Asisten presiden bidang Analis Data Strategis ",
+      "link": "https://www.antaranews.com/berita/5163421/profil-agung-gumilar-asisten-presiden-bidang-analis-data-strategis",
+      "isoDate": "2025-10-09T06:41:54.000Z",
+      "image": "https://img.antaranews.com/cache/800x533/2025/10/08/presiden-lantik-menteri-wakil-menteri-2641721.jpg",
+      "description": "Agung Gumilar Saputra resmi dilantik sebagai Asisten Khusus Presiden Bidang Analisis Data Strategis pada Rabu (8/10) di"
     },
     {
-      "title": "Hoaks! SBY dan AHY minta MBG digantikan dengan pendidikan gratis hingga sarjana",
-      "link": "https://www.antaranews.com/berita/5502018/hoaks-sby-dan-ahy-minta-mbg-digantikan-dengan-pendidikan-gratis-hingga-sarjana",
-      "isoDate": "2026-03-30T22:30:22.000Z",
-      "image": "https://img.antaranews.com/cache/800x533/2026/03/26/01KJBYVNGHGQ1PEAM3JEZQX0E6-1-_edit_541791992507953.jpg",
-      "description": "Jakarta (ANTARA/JACX) – Sebuah unggahan di media sosial Facebook menampilkan foto Presiden ke-6"
+      "title": "Daftar 25 pejabat & 10 Dubes yang dilantik Prabowo pada Oktober 2025",
+      "link": "https://www.antaranews.com/berita/5162865/daftar-25-pejabat-10-dubes-yang-dilantik-prabowo-pada-oktober-2025",
+      "isoDate": "2025-10-09T00:28:06.000Z",
+      "image": "https://img.antaranews.com/cache/800x533/2025/10/08/1000039111.jpg",
+      "description": "Presiden Prabowo Subianto resmi melantik 25 pejabat negara dan 10 Duta Besar (Dubes) Luar Biasa dan Berkuasa Penuh"
     },
     {
-      "title": "Hoaks! Amerika Serikat turunkan 10.000 prajurit robot untuk serbu Iran",
-      "link": "https://www.antaranews.com/berita/5502014/hoaks-amerika-serikat-turunkan-10000-prajurit-robot-untuk-serbu-iran",
-      "isoDate": "2026-03-30T22:29:26.000Z",
-      "image": "https://img.antaranews.com/cache/800x533/2026/02/13/Syria-USA-Turkey-Joint-Patrol-08102019.jpg",
-      "description": "Jakarta (ANTARA/JACX) – Sebuah unggahan di media sosial Facebook menarasikan bahwa Amerika Serikat"
-    },
-    {
-      "title": "Hoaks! Ukraina kerahkan ratusan jet tempur ke Iran",
-      "link": "https://www.antaranews.com/berita/5502010/hoaks-ukraina-kerahkan-ratusan-jet-tempur-ke-iran",
-      "isoDate": "2026-03-30T22:28:55.000Z",
-      "image": "https://img.antaranews.com/cache/800x533/2025/12/30/Cabut.jpg",
-      "description": "Jakarta (ANTARA/JACX) – Sebuah unggahan di media sosial Facebook menarasikan bahwa Ukraina"
-    },
-    {
-      "title": "Cek fakta, foto Mojtaba Khamenei dirawat akibat luka parah",
-      "link": "https://www.antaranews.com/berita/5502006/cek-fakta-foto-mojtaba-khamenei-dirawat-akibat-luka-parah",
-      "isoDate": "2026-03-30T22:27:29.000Z",
-      "image": "https://img.antaranews.com/cache/800x533/2026/03/09/XxjpbeE000022_20260309_PEPFN0A001.jpg",
-      "description": "Jakarta (ANTARA/JACX) – Sebuah unggahan di media sosial Facebook menampilkan foto seorang pria yang"
-    },
-    {
-      "title": "Saat pengawasan notaris di DIY beralih ke sistem digital",
-      "link": "https://www.antaranews.com/berita/5502002/saat-pengawasan-notaris-di-diy-beralih-ke-sistem-digital",
-      "isoDate": "2026-03-30T22:23:30.000Z",
-      "image": "https://img.antaranews.com/cache/800x533/2026/03/30/IMG_20260330_174151.jpg",
-      "description": "Selama bertahun-tahun berkecimpung di bidang properti, Irene (56), warga Ngemplak, Sleman, Daerah Istimewa Yogyakarta,"
-    },
-    {
-      "title": "Timnas Jerman menang tipis 2-1 atas Ghana",
-      "link": "https://www.antaranews.com/berita/5501998/timnas-jerman-menang-tipis-2-1-atas-ghana",
-      "isoDate": "2026-03-30T22:20:17.000Z",
-      "image": "https://img.antaranews.com/cache/800x533/2021/06/20/2021-06-19T184554Z_1270375395_UP1EH6J1BXSXR_RTRMADP_3_SOCCER-EURO-POR-GER-REPORT.jpg",
-      "description": "Timnas Jerman meraih kemenangan tipis 2-1 atas Ghana dalam laga uji coba internasional yang berlangsung di Stadion MHP"
-    },
-    {
-      "title": "Hoaks! Foto bandara terbesar AS hancur",
-      "link": "https://www.antaranews.com/berita/5501994/hoaks-foto-bandara-terbesar-as-hancur",
-      "isoDate": "2026-03-30T22:17:30.000Z",
-      "image": "https://img.antaranews.com/cache/800x533/2026/03/17/WhatsApp-Image-2026-03-17-at-17.09.12.jpeg",
-      "description": "Jakarta (ANTARA/JACX) – Sebuah unggahan di media sosial Facebook mengeklaim bahwa bandara terbesar di"
-    },
-    {
-      "title": "Hoaks! Purbaya minta DPR dihukum mati jika di OTT KPK",
-      "link": "https://www.antaranews.com/berita/5501990/hoaks-purbaya-minta-dpr-dihukum-mati-jika-di-ott-kpk",
-      "isoDate": "2026-03-30T22:16:14.000Z",
-      "image": "https://img.antaranews.com/cache/800x533/2026/03/16/tempImage0EcKI8_1.jpg",
-      "description": "Jakarta (ANTARA/JACX) – Sebuah unggahan di media sosial Facebook menarasikan bahwa"
-    },
-    {
-      "title": "De la Fuente sebut timnas Spanyol favorit juara Piala Dunia",
-      "link": "https://www.antaranews.com/berita/5501986/de-la-fuente-sebut-timnas-spanyol-favorit-juara-piala-dunia",
-      "isoDate": "2026-03-30T22:13:17.000Z",
-      "image": "https://img.antaranews.com/cache/800x533/2023/10/16/B10FDD38-771A-4114-81F6-711A353BAA49.jpeg",
-      "description": "Pelatih timnas Spanyol, Luis de la Fuente mengatakan bahwa timnya layak disebut sebagai salah satu favorit juara Piala"
-    },
-    {
-      "title": "Pemprov DKI bangun lima titik \"zebra cross\" di Tebet",
-      "link": "https://www.antaranews.com/berita/5501982/pemprov-dki-bangun-lima-titik-zebra-cross-di-tebet",
-      "isoDate": "2026-03-30T21:59:09.000Z",
-      "image": "https://img.antaranews.com/cache/800x533/2026/03/31/1000255074.jpg",
-      "description": "Pemerintah Provinsi DKI Jakarta membangun lima titik jalur penyeberangan kaki (zebra cross) di Jalan Soepomo, Tebet,"
-    },
-    {
-      "title": "Jakarta diperkirakan hujan pada Selasa pagi dan sore",
-      "link": "https://www.antaranews.com/berita/5501978/jakarta-diperkirakan-hujan-pada-selasa-pagi-dan-sore",
-      "isoDate": "2026-03-30T21:46:49.000Z",
-      "image": "https://img.antaranews.com/cache/800x533/2026/03/25/bmkg-prediksi-cuaca-ekstrem-dampak-awan-cumulonimbus-2761166.jpg",
-      "description": "Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) memprakirakan cuaca di sebagian wilayah DKI Jakarta hujan ringan"
-    },
-    {
-      "title": "John Herdman puji Calvin Verdonk sebagai pemain yang komplet",
-      "link": "https://www.antaranews.com/berita/5501974/john-herdman-puji-calvin-verdonk-sebagai-pemain-yang-komplet",
-      "isoDate": "2026-03-30T21:27:21.000Z",
-      "image": "https://img.antaranews.com/cache/800x533/2026/03/31/IMG_1491.jpg",
-      "description": "Pelatih timnas Indonesia John Herdman memuji Calvin Verdonk sebagai pemain yang komplet, yang tak hanya bisa memainkan"
-    },
-    {
-      "title": "Justin Hubner optimistis era John Herdman membuahkan prestasi",
-      "link": "https://www.antaranews.com/berita/5501970/justin-hubner-optimistis-era-john-herdman-membuahkan-prestasi",
-      "isoDate": "2026-03-30T21:18:58.000Z",
-      "image": "https://img.antaranews.com/cache/800x533/2026/03/31/IMG-20260331-WA0008.jpg",
-      "description": "Bek timnas Indonesia Justin Hubner optimistis era baru tim Garuda bersama pelatih John Herdman akan membuahkan sebuah"
-    },
-    {
-      "title": "John Herdman: Seharusnya kemenangan milik Indonesia",
-      "link": "https://www.antaranews.com/berita/5501966/john-herdman-seharusnya-kemenangan-milik-indonesia",
-      "isoDate": "2026-03-30T21:15:57.000Z",
-      "image": "https://img.antaranews.com/cache/800x533/2026/03/31/IMG-20260331-WA0010.jpg",
-      "description": "Pelatih timnas Indonesia John Herdman mengatakan seharusnya kemenangan menjadi milik Indonesia pada final FIFA Series"
-    },
-    {
-      "title": "Gattuso antusias hadapi Bosnia di final playoff Piala Dunia 2026",
-      "link": "https://www.antaranews.com/berita/5501962/gattuso-antusias-hadapi-bosnia-di-final-playoff-piala-dunia-2026",
-      "isoDate": "2026-03-30T21:11:43.000Z",
-      "image": "https://img.antaranews.com/cache/800x533/2026/03/24/Gatuso.jpg",
-      "description": "Pelatih Timnas Italia, Gennaro Gattuso menyambut antusias menghadapi Bosnia dan Herzegovina di laga final playoff Piala"
-    },
-    {
-      "title": "PB PSI manfaatkan status Olimpiade perkuat posisi squash di PON 2028",
-      "link": "https://www.antaranews.com/berita/5501958/pb-psi-manfaatkan-status-olimpiade-perkuat-posisi-squash-di-pon-2028",
-      "isoDate": "2026-03-30T21:09:09.000Z",
-      "image": "https://img.antaranews.com/cache/800x533/2019/10/31/Pelatnas-Squash-Sea-Games-2019-311019-sgd-6.jpg",
-      "description": "Pengurus Besar Persatuan Squash Indonesia (PB PSI) memanfaatkan status squash sebagai cabang olahraga resmi Olimpiade"
-    },
-    {
-      "title": "Aprilia evaluasi reliabilitas motor usai Ogura gagal finis di Amerika",
-      "link": "https://www.antaranews.com/berita/5501954/aprilia-evaluasi-reliabilitas-motor-usai-ogura-gagal-finis-di-amerika",
-      "isoDate": "2026-03-30T21:06:10.000Z",
-      "image": "https://img.antaranews.com/cache/800x533/2023/04/15/2023-04-15T010756Z_796170182_MT1USATODAY20464851_RTRMADP_3_MOTORCYCLE-RACING-MOTOGP-PRACTICE.jpg",
-      "description": "Aprilia melihat aspek reliabilitas motor sebagai bahan evaluasi setelah pembalap tim satelit Trackhouse MotoGP Team Ai"
-    },
-    {
-      "title": "Jadi runner-up FIFA Series, John Herdman: Indonesia bermain lebih baik",
-      "link": "https://www.antaranews.com/video/5501950/jadi-runner-up-fifa-series-john-herdman-indonesia-bermain-lebih-baik",
-      "isoDate": "2026-03-30T20:03:57.000Z",
-      "image": "https://img.antaranews.com/cache/800x533/2026/03/JADI-RUNNER-UP-FIFA-SERIES-JOHN-HERDMAN-INDONESIA-BERMAIN-LEBIH-BAIK.jpg",
-      "description": "ANTARA - Pelatih Timnas Indonesia, John Herdman, mengungkapkan kekecewaannya usai kekalahan tipis 0-1 dari Bulgaria"
-    },
-    {
-      "title": "Kalahkan timnas di GBK, Pelatih Bulgaria puji permainan Skuad Garuda",
-      "link": "https://www.antaranews.com/video/5501946/kalahkan-timnas-di-gbk-pelatih-bulgaria-puji-permainan-skuad-garuda",
-      "isoDate": "2026-03-30T19:36:29.000Z",
-      "image": "https://img.antaranews.com/cache/800x533/2026/03/KALAHKAN-TIMNAS-DI-GBK-PELATIH-BULGARIA-PUJI-PERMAINAN-SKUAD-GARUDA.jpg",
-      "description": "ANTARA - Tim Nasional (Timnas) Indonesia harus mengakui kekalahan tipis 0-1 dari Timnas Bulgaria, pada pertandingan"
-    },
-    {
-      "title": "Honda Team Asia bidik kebangkitan Mario Aji di Moto2 GP Spanyol",
-      "link": "https://www.antaranews.com/berita/5501942/honda-team-asia-bidik-kebangkitan-mario-aji-di-moto2-gp-spanyol",
-      "isoDate": "2026-03-30T18:40:13.000Z",
-      "image": "https://img.antaranews.com/cache/800x533/2025/10/04/Mario-Aji-Persiapan-Kualifikasi-Moto2-041025-app-3.jpg",
-      "description": "Idemitsu Honda Team Asia membidik kebangkitan pembalap Indonesia Mario Suryo Aji pada putaran keempat Kejuaraan Dunia"
-    },
-    {
-      "title": "Polda Riau gagalkan peredaran 16 kg sabu asal Malaysia",
-      "link": "https://www.antaranews.com/video/5501646/polda-riau-gagalkan-peredaran-16-kg-sabu-asal-malaysia",
-      "isoDate": "2026-03-30T18:11:56.000Z",
-      "image": "https://img.antaranews.com/cache/800x533/2026/03/SANS_POLDA-RIAU-GAGALKAN-PEREDARAN-16-KG-SABU-ASAL-MALAYSIA.jpg",
-      "description": "ANTARA - Polda Riau bersama Polres Bengkalis menggagalkan peredaran 16 kilogram sabu dan 40.146 butir pil ekstasi"
-    },
-    {
-      "title": "Jude Bellingham dipastikan tak akan main lawan Jepang",
-      "link": "https://www.antaranews.com/berita/5501938/jude-bellingham-dipastikan-tak-akan-main-lawan-jepang",
-      "isoDate": "2026-03-30T17:57:58.000Z",
-      "image": "https://img.antaranews.com/cache/800x533/2022/12/05/2022-12-04T211449Z_421673848_UP1EIC41HKFWJ_RTRMADP_3_SOCCER-WORLDCUP-ENG-SEN-REPORT.jpg",
-      "description": "Gelandang Real Madrid, Jude Bellingham dipastikan tidak akan tampil saat Timnas Inggris menghadapi Jepang dalam laga"
-    },
-    {
-      "title": "Erick Thohir: Meski kalah permainan timnas Indonesia berkelas",
-      "link": "https://www.antaranews.com/berita/5501934/erick-thohir-meski-kalah-permainan-timnas-indonesia-berkelas",
-      "isoDate": "2026-03-30T17:53:25.000Z",
-      "image": "https://img.antaranews.com/cache/800x533/2026/03/31/IMG-20260331-WA0003.jpg",
-      "description": "Ketua Umum PSSI Erick Thohir menyebut permainan timnas Indonesia berkelas meski kalah 0-1 dari Bulgaria pada laga final"
-    },
-    {
-      "title": "Kemlu pastikan sebar informasi BBTF ke 132 perwakilan di dunia",
-      "link": "https://www.antaranews.com/berita/5501930/kemlu-pastikan-sebar-informasi-bbtf-ke-132-perwakilan-di-dunia",
-      "isoDate": "2026-03-30T17:51:33.000Z",
-      "image": "https://img.antaranews.com/cache/800x533/2026/03/30/IMG_4935.jpeg",
-      "description": "Kementerian Luar Negeri (Kemlu) memastikan menyebarkan informasi soal pameran perjalanan wisata Bali and Beyond Travel"
-    },
-    {
-      "title": "Sumardji ingatkan John Herdman soal \"chemistry\" di timnas Indonesia",
-      "link": "https://www.antaranews.com/berita/5501926/sumardji-ingatkan-john-herdman-soal-chemistry-di-timnas-indonesia",
-      "isoDate": "2026-03-30T17:48:04.000Z",
-      "image": "https://img.antaranews.com/cache/800x533/2026/03/31/IMG-20260331-WA0000.jpg",
-      "description": "Ketua Badan Tim Nasional (BTN) Sumardji mengingatkan pelatih timnas Indonesia John Herdman untuk semakin memperkuat"
-    },
-    {
-      "title": "Pemkab Natuna lakukan modifikasi cuaca dan bom air tangani karhutla",
-      "link": "https://www.antaranews.com/berita/5501922/pemkab-natuna-lakukan-modifikasi-cuaca-dan-bom-air-tangani-karhutla",
-      "isoDate": "2026-03-30T17:48:02.000Z",
-      "image": "https://img.antaranews.com/cache/800x533/2026/03/30/1000822905.jpg",
-      "description": "Pemerintah Kabupaten (Pemkab) Natuna, Provinsi Kepulauan Riau, melakukan upaya pemadaman kebakaran hutan dan lahan"
-    },
-    {
-      "title": "GIPI rancang pariwisata Bali dikelola mulai dari tiba di bandara",
-      "link": "https://www.antaranews.com/berita/5501918/gipi-rancang-pariwisata-bali-dikelola-mulai-dari-tiba-di-bandara",
-      "isoDate": "2026-03-30T17:44:33.000Z",
-      "image": "https://img.antaranews.com/cache/800x533/2026/03/30/IMG_4939.jpeg",
-      "description": "Gabungan Industri Pariwisata Indonesia (GIPI) Bali merancang tata kelola pariwisata Bali yang baru yaitu memastikan"
-    },
-    {
-      "title": "Mario Aji sesali kesalahan sendiri saat peluang poin di depan mata",
-      "link": "https://www.antaranews.com/berita/5501914/mario-aji-sesali-kesalahan-sendiri-saat-peluang-poin-di-depan-mata",
-      "isoDate": "2026-03-30T17:43:59.000Z",
-      "image": "https://img.antaranews.com/cache/800x533/2025/10/05/hasil-mario-aji-di-moto2-indonesia-2025-2639393.jpg",
-      "description": "Pembalap Indonesia Mario Suryo Aji menyesali kesalahan yang membuatnya gagal finis saat peluang meraih poin sudah"
-    },
-    {
-      "title": "KPK: 8 biro haji terafiliasi Ketum Kesthuri untung hingga Rp40,8 M",
-      "link": "https://www.antaranews.com/berita/5501910/kpk-8-biro-haji-terafiliasi-ketum-kesthuri-untung-hingga-rp408-m",
-      "isoDate": "2026-03-30T17:38:34.000Z",
-      "image": "https://img.antaranews.com/cache/800x533/2026/03/31/IMG_5426.jpg",
-      "description": "Komisi Pemberantasan Korupsi (KPK) menduga delapan penyelenggara ibadah haji khusus (PIHK) atau biro haji khusus yang"
-    },
-    {
-      "title": "Menkomdigi panggil Meta dan Google yang belum penuhi PP Tunas",
-      "link": "https://www.antaranews.com/video/5501894/menkomdigi-panggil-meta-dan-google-yang-belum-penuhi-pp-tunas",
-      "isoDate": "2026-03-30T17:11:57.000Z",
-      "image": "https://img.antaranews.com/cache/800x533/2026/03/MENKOMDIGI-PANGGIL-META-DAN-GOOGLE-YANG-BELUM-PENUHI-PP-TUNAS.jpg",
-      "description": "ANTARA - Menteri Komunikasi dan Digital Meutya Hafid mengirimkan surat panggilan kepada Meta dan Google, yang menaungi"
-    },
-    {
-      "title": "KPK duga Ketum Kesthuri Asrul Aziz beri 406.000 dolar AS ke Gus Alex",
-      "link": "https://www.antaranews.com/berita/5501906/kpk-duga-ketum-kesthuri-asrul-aziz-beri-406000-dolar-as-ke-gus-alex",
-      "isoDate": "2026-03-30T17:11:54.000Z",
-      "image": "https://img.antaranews.com/cache/800x533/2026/03/31/IMG_5420.jpg",
-      "description": "Komisi Pemberantasan Korupsi menduga Asrul Aziz Taba (ASR) memberikan uang hingga 406.000 dolar Amerika Serikat kepada"
-    },
-    {
-      "title": "ASDP Ketapang operasikan 34 kapal urai kepadatan pada arus balik",
-      "link": "https://ramadhan.antaranews.com/berita/5501902/asdp-ketapang-operasikan-34-kapal-urai-kepadatan-pada-arus-balik",
-      "isoDate": "2026-03-30T17:10:34.000Z",
-      "image": "https://img.antaranews.com/cache/800x533/2026/03/30/MG_8375.jpg",
-      "description": "PT ASDP Indonesia Ferry (Persero) Cabang Ketapang, Banyuwangi, Jawa Timur, mengoperasikan 34 unit kapal untuk"
+      "title": "Profil Akhmad Wiyagus: Dari perwira tinggi Polri ke Wamendagri",
+      "link": "https://www.antaranews.com/berita/5162857/profil-akhmad-wiyagus-dari-perwira-tinggi-polri-ke-wamendagri",
+      "isoDate": "2025-10-09T00:18:10.000Z",
+      "image": "https://img.antaranews.com/cache/800x533/2024/11/11/IMG_20241111_175041_1.jpg",
+      "description": "Komjen Polisi (Purn) Akhmad Wiyagus resmi dilantik sebagai Wakil Menteri Dalam Negeri (Wamendagri) dalam Kabinet Merah"
     }
   ]
 }
